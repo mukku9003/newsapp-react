@@ -1,0 +1,218 @@
+{
+  "status": "ok",
+  "totalResults": 27,
+  "articles": [
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": null,
+      "title": "Jack Ma and the Chinese tech titans’ mission to give away billions",
+      "description": "Xi Jinping’s focus on ‘common prosperity’ has galvanised the country’s wealthiest entrepreneurs",
+      "url": "https://www.ft.com/content/c89594c1-1d85-4dda-9e67-55c775bd6c9a",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa08fe973-218f-4437-a5db-37ed55360e48.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2021-08-29T06:52:24.2917287Z",
+      "content": "In Jack Ma’s home town of Hangzhou, the Alibaba founder’s expansive home boasts its own food supply within a national wetland park. But the compound is just one of his extensive land holdings in the … [+6239 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Paul Smith, Natasha Gillezeau, Hannah Wootton",
+      "title": "‘Stuck in 2010:’ tech insiders slam proposed M&A rules",
+      "description": "Tech investors and company founders say the ACCC’s proposals to change M&A rules to counter big tech dominance would hurt the commercial prospects of local firms.",
+      "url": "http://www.afr.com/technology/stuck-in-2010-tech-insiders-slam-proposed-m-and-a-rules-20210827-p58mgw",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2671%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_147%2C$y_93/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/0661ca0f2abd491607b8b9b0c01a1d66f327c2c2",
+      "publishedAt": "2021-08-29T04:31:59Z",
+      "content": "Any restrictions on tech companies getting acquired would be bad news for the venture capital investors that back them, and Square Peg Capital co-founder Paul Bassat said Mr Sims ideas misunderstood … [+7390 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Lucas Matney",
+      "title": "CryptoPunks blast past $1 billion in lifetime sales as NFT market goes wild",
+      "description": "Hello friends, and welcome back to Week in Review! Last week we dove into Bezos’s Blue Origin suing NASA. This week, I’m writing about the unlikely and triumphant resurgence of the NFT market. If you’re reading this on the TechCrunch site, you can get this in…",
+      "url": "https://techcrunch.com/2021/08/28/cryptopunks-blast-past-1-billion-in-lifetime-sales-as-nft-market-goes-wild/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/Untitled-8.jpg?w=640",
+      "publishedAt": "2021-08-28T18:48:47Z",
+      "content": "Hello friends, and welcome back to Week in Review! Last week we dove into Bezos’s Blue Origin suing NASA. This week, I’m writing about the unlikely and triumphant resurgence of the NFT market.\r\nIf yo… [+6983 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Inside Story",
+      "title": "How should social media companies handle the Taliban?",
+      "description": "Tech giants face challenge over disseminating Taliban content as group prepares to form new government in Afghanistan.",
+      "url": "http://www.aljazeera.com/program/inside-story/2021/8/28/how-should-social-media-companies-handle-the-taliban",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/08/h_57120799.jpg?resize=1200%2C630",
+      "publishedAt": "2021-08-28T18:05:27Z",
+      "content": "Fearful of Taliban rule, thousands are fleeing the country, while those who remain face uncertainty."
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Sarah Perez",
+      "title": "This Week in Apps: Developers sound off on App Store settlement, OnlyFans' flip-flop, Snap's new camera",
+      "description": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…",
+      "url": "https://techcrunch.com/2021/08/28/this-week-in-apps-developers-sound-off-on-app-store-settlement-onlyfans-flip-flop-snaps-new-camera/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/this-week-in-apps-splash-3.png?w=753",
+      "publishedAt": "2021-08-28T17:30:04Z",
+      "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nThe app industry continues to grow, with a … [+32376 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alex Wilhelm",
+      "title": "The remote work argument has already been won by startups",
+      "description": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.",
+      "url": "https://techcrunch.com/2021/08/28/the-remote-work-argument-has-already-been-won-by-startups/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
+      "publishedAt": "2021-08-28T17:00:15Z",
+      "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in … [+4276 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sara Randazzo, Christopher Weaver",
+      "title": "Elizabeth Holmes Might Claim Abusive Relationship in Theranos Fraud Trial",
+      "description": "Biotech startup founder alleges decadelong controlling relationship with former partner in court filings; he denies abuse",
+      "url": "https://www.wsj.com/articles/elizabeth-holmes-might-claim-abusive-relationship-in-criminal-fraud-defense-11630167496?mod=hp_lead_pos3",
+      "urlToImage": "https://images.wsj.net/im-392575/social",
+      "publishedAt": "2021-08-28T16:18:00Z",
+      "content": "Theranos Inc. founder Elizabeth Holmes could argue at her upcoming criminal fraud trial that she was in a decadelong abusive relationship with former Theranos President Ramesh Sunny Balwani that left… [+1287 chars]"
+    },
+    {
+      "source": { "id": "wirtschafts-woche", "name": "Wirtschafts Woche" },
+      "author": "Christian Schlesiger",
+      "title": "Siemens Gamesa: „Das Geschäft in China geben wir auf“",
+      "description": "Die Windtochter von Siemens Energy hat Probleme in Brasilien und auch anderswo läuft es nicht rund. Siemens-Gamesa-Chef Andreas Nauen über seine radikalen Umbaupläne, die Tücken der Technik – und Rückzugspläne im Ausland.",
+      "url": "https://www.wiwo.de/my/unternehmen/industrie/siemens-gamesa-chef-die-zweite-gewinnwarnung-finde-ich-persoenlich-enttaeuschend/27549800.html",
+      "urlToImage": "https://www.wiwo.de/images/217723089-siemens_gamesa/27557812/4-format11240.jpg",
+      "publishedAt": "2021-08-28T16:12:13+00:00",
+      "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei ver… [+173 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Bowdeya Tweh",
+      "title": "Apple’s App Store Class-Action Settlement: What Does It Mean for Developers?",
+      "description": "The tech company has faced criticism for years over alleged anticompetitive practices in connection with the App Store",
+      "url": "https://www.wsj.com/articles/apple-class-action-app-store-lawsuit-settlement-11630156268?mod=hp_lead_pos5",
+      "urlToImage": "https://images.wsj.net/im-392737/social",
+      "publishedAt": "2021-08-28T15:41:00Z",
+      "content": "Apple Inc. agreed to settle a class-action lawsuit with software developers who challenged the tech giants practices in connection with the App Store.  \r\nThe proposed settlement disclosed Thursday ma… [+1157 chars]"
+    },
+    {
+      "source": { "id": "t3n", "name": "T3n" },
+      "author": "Timo Höhn",
+      "title": "Headless CMS – warum wir WordPress in Zukunft ganz anders nutzen werden",
+      "description": "Hat WordPress bald ausgedient? Ist das technische Gerüst aus PHP und MySQL schon veraltet oder werden wir das",
+      "url": "https://t3n.de/news/headless-cms-wordpress-zukunft-1397884/",
+      "urlToImage": "https://t3n.de/news/wp-content/uploads/2020/10/shutterstock-1066309889.jpg",
+      "publishedAt": "2021-08-28T15:00:36Z",
+      "content": "Hinweis: Wir haben in diesem Artikel Provisions-Links verwendet und sie durch \"*\" gekennzeichnet. Erfolgt über diese Links eine Bestellung, erhält t3n.de eine Provision.\r\nHat WordPress bald ausgedien… [+6137 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Natasha Mascarenhas, Alex Wilhelm",
+      "title": "The bar for behavioral health startups just got higher",
+      "description": "Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. Happy Saturday! After news broke that meditation app Headspace and on-demand mental health care platform Ginger were merging, we …",
+      "url": "https://techcrunch.com/2021/08/28/headspace-ginger-lyra-health-calm/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/equity-podcast-2019-phone.jpg?w=711",
+      "publishedAt": "2021-08-28T14:00:37Z",
+      "content": "Hello and welcome back to Equity, TechCrunchs venture capital-focused podcast, where we unpack the numbers behind the headlines. Happy Saturday!\r\nAfter news broke that meditation app Headspace and on… [+2215 chars]"
+    },
+    {
+      "source": { "id": "blasting-news-br", "name": "Blasting News (BR)" },
+      "author": "https://www.facebook.com/atila.franca.73",
+      "title": "Governo rescinde contrato com Bharat Biotech, fabricante da vacina Covaxin",
+      "description": "O senador Randolfe Rodrigues, vice-presidente da CPI da Covid, comemorou a notícia nas redes sociais",
+      "url": "https://br.blastingnews.com/politica/2021/08/governo-rescinde-contrato-com-bharat-biotech-fabricante-da-vacina-covaxin-003362642.html",
+      "urlToImage": "https://staticr1.blastingcdn.com/media/photogallery/2021/8/28/os/b_1200x630/governo-federal-rompe-contrato-com-fabricante-da-covaxin-arquivo-blasting-news_2659038.jpg",
+      "publishedAt": "2021-08-28T13:26:14Z",
+      "content": "O Governo federal rescindiu de maneira unilateral o contrato com a empresa Bharat Biotech, responsável pela vacina contra a Covid-19 Covaxin. No mês de julho o governo já havia anunciado o cancelamen… [+2462 chars]"
+    },
+    {
+      "source": { "id": "t3n", "name": "T3n" },
+      "author": "Elisabeth Urban",
+      "title": "Dieses lebensgroße Lego-Auto fährt tatsächlich: 477.000 Steine, 27 Kilometer pro Stunde",
+      "description": "Lego-Technik gibt es immer wieder auch in lebensgroß – zum Beispiel in Form von fahrbaren Untersätzen, die aus",
+      "url": "https://t3n.de/news/lego-lebensgross-toyota-1400559/",
+      "urlToImage": "https://t3n.de/news/wp-content/uploads/2021/08/Bildschirmfoto-2021-08-25-um-15.51.18.png",
+      "publishedAt": "2021-08-28T06:45:00Z",
+      "content": "Hinweis: Wir haben in diesem Artikel Provisions-Links verwendet und sie durch \"*\" gekennzeichnet. Erfolgt über diese Links eine Bestellung, erhält t3n.de eine Provision.\r\nLego-Technik gibt es immer w… [+2803 chars]"
+    },
+    {
+      "source": { "id": "gruenderszene", "name": "Gruenderszene" },
+      "author": null,
+      "title": "Erfolgreich mit „türkischer Hartnäckigkeit und deutschem Perfektionismus“",
+      "description": "Wie Gründerszene exklusiv erfahren hat, stehen Europäische Tech-Investoren hinter der Series-A-Finanzierung",
+      "url": "https://www.businessinsider.de/gruenderszene/technologie/elopage-series-c-a/",
+      "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2021/08/Özkan-Akkilic.jpg",
+      "publishedAt": "2021-08-27T23:22:00+00:00",
+      "content": "Wie Gründerszene exklusiv erfahren hat, stehen Europäische Tech-Investoren hinter der Series-A-Finanzierung"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Associated Press, Kevin Shalvey",
+      "title": "Capitol siege committee seeks 15 tech firm's records for investigation",
+      "description": "The House panel investigating the Capitol siege in January issued sweeping document requests on Friday to social media companies.",
+      "url": "http://www.businessinsider.com/capitol-siege-committee-tech-companies-records-investigation-2021-8",
+      "urlToImage": "https://i.insider.com/612a355812b9cc0019633f4e?width=1200&format=jpeg",
+      "publishedAt": "2021-08-27T18:03:49Z",
+      "content": "The House panel investigating the riot at the US Capitol issued sweeping document requests on Friday to social media companies, expanding the scope of its investigation as it seeks to examine the eve… [+2025 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Associated Press, Kevin Shalvey",
+      "title": "Capitol siege committee seeks 15 tech firm's records for investigation",
+      "description": "The House panel investigating the Capitol siege in January issued sweeping document requests on Friday to social media companies.",
+      "url": "http://uk.businessinsider.com/capitol-siege-committee-tech-companies-records-investigation-2021-8",
+      "urlToImage": "https://i.insider.com/612a355812b9cc0019633f4e?width=1200&format=jpeg",
+      "publishedAt": "2021-08-27T18:03:49Z",
+      "content": "The House panel investigating the riot at the US Capitol issued sweeping document requests on Friday to social media companies, expanding the scope of its investigation as it seeks to examine the eve… [+2025 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/valentina-palladino",
+      "title": "Apple's MacBook Pro M1 is $200 off, plus the rest of the week's best tech deals | Engadget",
+      "description": "This week's best tech deals include $200 off the Apple MacBook Pro M1, $59 off the Apple Watch SE and $50 off the August WiFi smart lock..",
+      "url": "https://www.engadget.com/apple-macbook-pro-m1-sale-200-off-with-coupon-best-weekly-tech-deals-154553200.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/3f0d79d0-073d-11ec-8d9f-a5754518df51",
+      "publishedAt": "2021-08-27T15:52:21.2890436Z",
+      "content": "Labor Day sales are starting to pop up across the internet as the holiday weekend gets nearer. Apple's MacBook Pro M1 remains $200 off at Amazon while a few models of the Apple Watch SE with GPS + Ce… [+6214 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Anna Moreau et Elisa Bellanger",
+      "title": "Vidéo. Bientôt des villes fournaises ? Pourquoi tout n’est pas perdu",
+      "description": "Vidéo - Planter des arbres, repeindre les toits en blanc, arroser le goudron… Une simulateur de Météo-France permet d’évaluer les techniques pour limiter l’impact des canicules sur nos villes, où vivent près de huit Français sur dix.",
+      "url": "https://www.lemonde.fr/climat/video/2021/08/22/bientot-des-villes-fournaises-pourquoi-tout-n-est-pas-perdu_6092048_1652612.html",
+      "urlToImage": "https://img.lemde.fr/2021/08/12/39/0/1280/640/1440/720/60/0/f9689b2_76530721-capture-d-e-cran-2021-08-12-a-16-30-05.png",
+      "publishedAt": "2021-08-22T08:41:48Z",
+      "content": "Avec le réchauffement climatique, il fera encore plus chaud quailleurs en ville. En cause : leffet d« îlot de chaleur urbain », identifié il y a deux cent ans à Londres : la texture même des villes (… [+1161 chars]"
+    },
+    {
+      "source": { "id": "new-scientist", "name": "New Scientist" },
+      "author": null,
+      "title": "Ventilation can make schools and offices safe from covid-19 – but how?",
+      "description": "Maximising airflow in public spaces is crucial to cut covid-19 transmission, but questions remain about what technology to use and how effective it needs to be",
+      "url": "https://www.newscientist.com/article/mg25133484-200-ventilation-can-make-schools-and-offices-safe-from-covid-19-but-how/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2021/08/18201325/pri195123936-5.jpg",
+      "publishedAt": "2021-08-18T00:00:00Z",
+      "content": "By Graham Lawton\r\nFirst day back at Tustin Ranch Elementary School in California on 11 August\r\nPaul Bersebach/MediaNews Group/Orange County Register via Getty Images\r\nAS THE nights begin to draw in a… [+486 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "MSNBC",
+      "title": "China upholds Canadian's death sentence as Huawei case looms",
+      "description": "A Chinese court rejected a Canadian appeal of a death sentence in an effort to step up pressure on Canada to release executive of tech giant Huawei.",
+      "url": "https://www.nbcnews.com/news/world/china-upholds-canadian-s-death-sentence-huawei-case-looms-n1276392",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_32/3497921/210810-robert_schellenberg-mc-8292.JPG",
+      "publishedAt": "2021-08-10T09:39:49Z",
+      "content": "BEIJING A Chinese court on Tuesday rejected a Canadian drug convicts appeal of a death sentence in what appeared to be an effort to step up pressure on Canada to release a detained executive of tech … [+3654 chars]"
+    }
+  ]
+}
